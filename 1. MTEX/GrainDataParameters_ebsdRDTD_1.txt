@@ -1,0 +1,10 @@
+AL RD-TD-1 plane
+Lognormal distribution:
+       mu             sigma          mean           median         mode           sqrt
+d-num    1.97511096     0.64572540     8.87813579     7.20741931     4.75002396     6.38574246
+d-area   2.67966328     0.50420684    16.55644666    14.58018310    11.30718935     8.90763453
+
+
+Beta distribution:
+       a              b              mean           median         sqrt
+asp-num     4.99198446     2.75826463     0.64410633     0.65706068     0.16185596
